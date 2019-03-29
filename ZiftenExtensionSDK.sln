@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionSDK", "ExtensionSDK\ExtensionSDK.csproj", "{C8CDE04E-7669-466D-BF7F-B479CF7C3AA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{9341771B-9B50-464F-8067-E12AA796800B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8CDE04E-7669-466D-BF7F-B479CF7C3AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8CDE04E-7669-466D-BF7F-B479CF7C3AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8CDE04E-7669-466D-BF7F-B479CF7C3AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8CDE04E-7669-466D-BF7F-B479CF7C3AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9341771B-9B50-464F-8067-E12AA796800B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9341771B-9B50-464F-8067-E12AA796800B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9341771B-9B50-464F-8067-E12AA796800B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9341771B-9B50-464F-8067-E12AA796800B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
